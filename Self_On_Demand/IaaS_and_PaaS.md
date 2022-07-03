@@ -4,7 +4,8 @@
  - Raw compute
  - Storage
  - Network capabilities
-Customers pay for what they allocate in this model. 
+ 
+Customers pay for what they allocate(use) in this model. 
 ### Platform as a Service (PaaS)
 
 **PaaS** offerings:
