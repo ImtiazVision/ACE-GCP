@@ -21,3 +21,7 @@ Customers pay for what they use in this model.
 
 - Allows developers to concentrate on code
 - Eliminate the need for any infrastructure management 
+
+### Serverless technologies example
+
+**Cloud Functions**: manages event-driven code as a pay-as-you-go service. 
