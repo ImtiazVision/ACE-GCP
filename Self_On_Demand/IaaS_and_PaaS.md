@@ -25,3 +25,5 @@ Customers pay for what they use in this model.
 ### Serverless technologies example
 
 **Cloud Functions**: manages event-driven code as a pay-as-you-go service. 
+
+**Cloud Run**: deploy containerized microservices based application in a fully-managed environment.
