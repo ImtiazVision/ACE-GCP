@@ -13,3 +13,11 @@ Customers pay for what they allocate in this model.
 - Libraries
 
 Customers pay for what they use in this model. 
+
+
+### Serverless Cloud Computing
+
+**Serverless Cloud Computing** benefits:
+
+- Allows developers to concentrate on code
+- Eliminate the need for any infrastructure management 
