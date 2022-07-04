@@ -58,3 +58,9 @@ Windows: RDP
 - Durable storage
 - Snapshots: incremental backups 
 - Can be attached in read-only mode
+
+### Snapshot use cases
+
+- Back up data
+- Migrate data between zones
+- Transfer data to SSD to improve performance 
