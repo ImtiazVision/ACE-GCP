@@ -16,3 +16,4 @@ Egress - outgoing traffic
 
 # VPC Network Peering
 
+- It reduce latency and cost while increase security. 
