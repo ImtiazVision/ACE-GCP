@@ -1,5 +1,6 @@
-### VPC
+### VPC Network
 VPC network functions as a distributed firewall.
+- VPC network consist of collection of subnets. 
 
 ### subnet Cross Zones 
 
