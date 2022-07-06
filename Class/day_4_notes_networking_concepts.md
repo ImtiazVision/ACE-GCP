@@ -13,3 +13,6 @@ Egress - outgoing traffic
 - Firewall rules are stateful
 - It denies ingress and allow all egress communication
 - Connections are allowed or denied at the instance level
+
+# VPC Network Peering
+
